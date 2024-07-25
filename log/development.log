@@ -72,3 +72,136 @@ Processing by ChatroomController#index as HTML
 Completed 200 OK in 13ms (Views: 12.6ms | ActiveRecord: 0.0ms | Allocations: 24524)
 
 
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:45:42 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 179)
+  Rendered layout layouts/application.html.erb (Duration: 87.8ms | Allocations: 68837)
+Completed 200 OK in 93ms (Views: 89.9ms | ActiveRecord: 0.0ms | Allocations: 72988)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:45:46 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 20.1ms | Allocations: 5053)
+Completed 200 OK in 22ms (Views: 20.7ms | ActiveRecord: 0.0ms | Allocations: 5297)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:51:15 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 94)
+  Rendered layout layouts/application.html.erb (Duration: 14.7ms | Allocations: 25008)
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms | Allocations: 25928)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:51:26 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 94)
+  Rendered layout layouts/application.html.erb (Duration: 10.9ms | Allocations: 23735)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms | Allocations: 24656)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:52:30 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 28.1ms | Allocations: 24637)
+Completed 200 OK in 29ms (Views: 28.9ms | ActiveRecord: 0.0ms | Allocations: 24876)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:52:33 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 8.4ms | Allocations: 5060)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms | Allocations: 5299)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:53:06 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 94)
+  Rendered layout layouts/application.html.erb (Duration: 9.8ms | Allocations: 23794)
+Completed 200 OK in 12ms (Views: 10.7ms | ActiveRecord: 0.0ms | Allocations: 24713)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:54:32 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 92)
+  Rendered layout layouts/application.html.erb (Duration: 11.4ms | Allocations: 23746)
+Completed 200 OK in 13ms (Views: 12.2ms | ActiveRecord: 0.0ms | Allocations: 24667)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:55:14 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 92)
+  Rendered layout layouts/application.html.erb (Duration: 10.6ms | Allocations: 23749)
+Completed 200 OK in 12ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 24668)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:55:39 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 92)
+  Rendered layout layouts/application.html.erb (Duration: 12.3ms | Allocations: 23741)
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms | Allocations: 24660)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:56:32 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 94)
+  Rendered layout layouts/application.html.erb (Duration: 12.0ms | Allocations: 23735)
+Completed 200 OK in 14ms (Views: 12.9ms | ActiveRecord: 0.0ms | Allocations: 24654)
+
+
+Started GET "/js/jquery-1.2.6.min.js" for 127.0.0.1 at 2024-07-25 08:56:32 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/js/jquery-1.2.6.min.js"):
+  
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:57:17 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 90)
+  Rendered layout layouts/application.html.erb (Duration: 15.0ms | Allocations: 23738)
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms | Allocations: 24655)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 09:00:20 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 94)
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 108)
+  Rendered layout layouts/application.html.erb (Duration: 11.5ms | Allocations: 23981)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms | Allocations: 24900)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 09:01:35 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered layout layouts/application.html.erb (Duration: 24.0ms | Allocations: 23485)
+Completed 200 OK in 26ms (Views: 25.6ms | ActiveRecord: 0.0ms | Allocations: 23725)
+
+
