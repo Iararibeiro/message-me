@@ -44,3 +44,31 @@ Processing by SessionsController#new as HTML
 Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 1822)
 
 
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:32:47 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 179)
+  Rendered layout layouts/application.html.erb (Duration: 1323.7ms | Allocations: 211545)
+Completed 200 OK in 1334ms (Views: 1325.9ms | ActiveRecord: 0.0ms | Allocations: 215697)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:39:34 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 94)
+  Rendered layout layouts/application.html.erb (Duration: 16.8ms | Allocations: 24593)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms | Allocations: 25514)
+
+
+Started GET "/" for 127.0.0.1 at 2024-07-25 08:41:14 -0400
+Processing by ChatroomController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 94)
+  Rendered layout layouts/application.html.erb (Duration: 11.8ms | Allocations: 23603)
+Completed 200 OK in 13ms (Views: 12.6ms | ActiveRecord: 0.0ms | Allocations: 24524)
+
+
