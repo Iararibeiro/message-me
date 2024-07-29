@@ -2,6 +2,8 @@
 <html>
   <head>
     <title>MessageMe</title>
+    <%= favicon_link_tag %>
+
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
@@ -16,7 +18,7 @@
         <%= render 'layouts/navigation' %>
       </div>
     </div>
-    <div class="ui container">
+    <div class="ui container chatbox">
       <%= yield %>
     </div>
   </body>
